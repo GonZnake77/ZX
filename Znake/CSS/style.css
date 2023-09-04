@@ -1,0 +1,261 @@
+.Menu1{
+    transition: 0.5s;
+    background-color: rgb(29, 29, 29);
+    width: 100%;
+    height: 18%;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: -13%;
+    left: 0;
+    right: 0;
+}
+.Menu1:hover{
+    transition: 0.5s;
+    background-color: rgb(29, 29, 29);
+    width: 100%;
+    height: 18%;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0px 0px 60px;
+}
+#Logo1{
+    transition: 0.5s;
+    width: 16%;
+    height: 60%;
+    margin-left: 12.5px;
+    margin-top: 12.5px;
+    border-radius: 10px;
+}
+
+
+
+#Alert{
+    filter: invert(100%);
+    width: 3%;
+    height: 30%;
+}
+
+
+
+#Parrafo{
+    text-align: center;
+    font-size: 100%;
+    font-family: 'Kanit', sans-serif;
+}
+#Parrafo1{
+    text-align: center;
+    font-size: 80%;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#Marca{
+    display: inline-block;
+    width: 1.6%;
+    height: 3%;
+}
+#ImagenC{
+    width: 30%;
+    height: 28%;
+}
+
+
+
+.Contenido1{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+#Logo2{
+    transition: 0.5s;
+    width: 16%;
+    height: 8%;
+    margin-top: 3%;
+    border-radius: 10px;
+}
+#Titulo1{
+    text-align: center;
+    font-size: 100%;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+#Contratar{
+    transition: 0.5s;
+    height: 8%;
+    width: 8%;
+    background-color: #b3b3b3;
+    position: fixed;
+    margin-left: 12%;
+    margin-bottom: 4%;
+    bottom: 0;
+    border: none;
+    border-radius: 10px;
+}
+#Contratar:hover{
+    transition: 0.5s;
+    height: 8%;
+    width: 8%;
+    background-color: #00ff62;
+    box-shadow: 0px 0px 20px #00ff62;
+    position: fixed;
+    margin-left: 12%;
+    margin-bottom: 4%;
+    bottom: 0;
+    border: none;
+    border-radius: 10px;
+}
+
+
+
+.Contenido11{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 215, 215);
+    width: 32%;
+    height: 70%;
+    position: fixed;
+    bottom: 10;
+}
+#Video{
+    margin-top: 2%;
+}
+
+
+
+.Contenido12{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(223, 254, 255);
+    width: 32%;
+    height: 70%;
+    position: fixed;
+    bottom: 10;
+    margin-left: 34%;
+}
+#Imagen{
+    margin-top: 2%;
+}
+
+
+
+.Contenido13{
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(223, 224, 255);
+    width: 31%;
+    height: 70%;
+    position: fixed;
+    bottom: 10;
+    margin-left: 68%;
+}
+#Audio{
+    margin-top: 2%;
+}
+
+
+
+.Contenido2{
+    display: none;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+
+
+#BCasa{
+    transition: 0.5s;
+    width: 4%;
+    height: 8%;
+    margin-left: 4%;
+    margin-top: 25px;
+    border: none;
+    border-radius: 50%;
+    background-color: #00000000;
+    position: fixed;
+}
+
+
+
+#BYT{
+    background-color: #ffadad;
+    width: 4%;
+    height: 4%;
+    margin-top: 4%;
+    margin-right: 2%;
+    border-radius: 8px;
+    transition: 0.5s;
+    border: none;
+    position: fixed;
+    right: 0;
+}
+#BYT:hover{
+    background-color: #ffadad;
+    width: 4%;
+    height: 4%;
+    margin-top: 4%;
+    margin-right: 2%;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px #ffadad;
+    transition: 0.5s;
+    border: none;
+    position: fixed;
+    right: 0;
+}
+#BYTi{
+    width: 60%;
+    height: 100%;
+}
+
+
+
+#BTT{
+    background-color: #ffadf4;
+    width: 4%;
+    height: 4%;
+    margin-right: 2%;
+    margin-top: 1%;
+    border-radius: 8px;
+    transition: 0.5s;
+    border: none;
+    position: fixed;
+    right: 0;
+}
+#BTT:hover{
+    background-color: #ffadf4;
+    width: 4%;
+    height: 4%;
+    margin-right: 2%;
+    margin-top: 1%;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px #ffadf4;
+    transition: 0.5s;
+    border: none;
+    position: fixed;
+    right: 0;
+}
+#BTTi{
+    width: 50%;
+    height: 90%;
+}
